@@ -1,8 +1,0 @@
-.idea/
-
-# Environment files containing API keys
-.env
-web-ui/.env
-*.env.local
-*.env.production
-*/.DS_Store
