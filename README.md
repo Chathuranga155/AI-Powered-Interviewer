@@ -3,16 +3,14 @@
 ## ⚡ Tech Stack  
 
 **Languages & Frameworks:**  
-`Python` • `Go` • `PHP` • `JavaScript` • `Django` • `Laravel` • `FastAPI` • `Bootstrap`  
+`Python` • `Go` •  `JavaScript` • `Bootstrap`  
 
 **Databases & Tools:**  
-`MySQL` • `PostgreSQL` • `MongoDB` • `SQLite` • `Docker` • `Git/GitHub`  
+ `SQLite`• `Git/GitHub`  
 
 **Machine Learning & AI:**  
-`TensorFlow` • `scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `CNN` • `SVM` • `Random Forest`  
+`TensorFlow` • `scikit-learn`  • `Matplotlib` • `CNN` • `SVM` • `Random Forest`  
 
-**Cloud & Deployment:**  
-`AWS` • `Heroku` • `Vercel` • `Nginx`  
 
 ---
 
@@ -32,12 +30,7 @@
 
 ---
 
-## 🌐 Connect With Me  
-- 💼 LinkedIn: [linkedin.com/in/chathurangabandara](https://linkedin.com/in/chathurangabandara)  
-- 🌍 Portfolio: [CIND Technology](https://www.cindtechnology.com/)  
-- 📱 WhatsApp: [Chat with me](https://api.whatsapp.com/send?phone=785765593&text=Hello!)  
 
----
 
 ## 📈 GitHub Stats  
 ![Chathuranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=chathuranga155&show_icons=true&theme=radical)  
